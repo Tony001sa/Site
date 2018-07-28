@@ -1,0 +1,32 @@
+#search_body {
+  background-image: url(https://static.zerochan.net/Inaba.Tewi.full.877062.jpg);
+}
+
+#r_m {
+  font-size: 60px;
+  text-align: center;
+  color: #3cc6de;
+}
+
+#s_m1 {
+  font-size: 70px;
+  color: #52de3a;
+  position:absolute;
+   top:50%; left:50%;
+    margin-top:-75px;
+     margin-left:-260px;
+       width:600px;
+        height:400px;
+
+}
+
+#s_m2 {
+  font-size: 70px;
+  color: red;
+  position:absolute;
+   top:50%; left:50%;
+    margin-top:-75px;
+     margin-left:-150px;
+       width:300px;
+        height:300px;
+}
