@@ -21,7 +21,7 @@
   <div class="container">
     <div>
       <?php
-        echo($_SESSION["test"]);
+      
         if(isset($_SESSION["server_message"])){
           echo($_SESSION["server_message"]);
           unset($_SESSION["server_message"]);

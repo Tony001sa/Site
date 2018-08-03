@@ -1,5 +1,11 @@
 #search_body {
-  background-image: url(https://static.zerochan.net/Inaba.Tewi.full.877062.jpg);
+  background-image: url(https://c.wallhere.com/photos/dc/8e/nature_sea_sunset_water_reflection_mountains_snow_winter-98777.jpg!d);
+  max-width: 100%;
+  height: auto;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 #r_m {
